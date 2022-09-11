@@ -1,1 +1,1 @@
-5-printf.c
+task6
