@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/**
+/*
  * main -entry point
  * Description: prints a random number and checks
  * if the number is positive or negative
  * Return: 0
  */
 int main(void)
-
 {
     int n;
 
@@ -27,5 +26,4 @@ int main(void)
     printf("%d is negative\n", n);
     }
     return (0);
-}	
-
+}
